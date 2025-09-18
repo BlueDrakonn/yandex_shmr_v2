@@ -21,4 +21,9 @@ dependencyResolutionManagement {
 
 rootProject.name = "yandex_shmr_v2"
 include(":app")
- 
+include(":core")
+include(":core:ui")
+include(":core:util")
+include(":features")
+include(":core:network")
+include(":core:room")
